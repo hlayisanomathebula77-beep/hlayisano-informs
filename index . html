@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hlayisano Informs</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 20px;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    h1 { color: #1a5276; text-align: center; }
+    h2 { color: #2874a6; border-bottom: 2px solid #ddd; padding-bottom: 6px; margin-top: 40px; }
+    h3 { color: #1a5276; }
+    p { margin-bottom: 15px; }
+    ul { margin-bottom: 15px; }
+    blockquote {
+      font-style: italic;
+      border-left: 4px solid #2874a6;
+      padding-left: 15px;
+      margin: 30px 0;
+      color: #555;
+    }
+    .intro { text-align: center; font-size: 1.1em; }
+  </style>
+</head>
+<body>
+
+  <h1>HLAYISANO INFORMS</h1>
+  <p class="intro">Welcome to Hlayisano Informs! A space where you get to be informed about different diseases.</p>
+  <p class="intro">Together we will unpack the mysteries behind cancer and other dominant diseases in our communities.</p>
+
+  <h2>CANCER</h2>
+  <p>Cancer has become a worldwide crisis and with South Africa leading the whole of Africa on the most reported number of cases, we ought to investigate.</p>
+  <p>Going back in time, a total number of 59 592 and 59 908 new cancer cases were reported to the NCR (National Cancer Registry). Females comprised 50.5% and 50% of all cancers diagnosed in the two consecutive years and males comprised 49.5% and 49.1% of all cancer cases respectively. Prostate cancer, lung, oesophagus, colorectal and bladder were the five leading cancers in males. In females, breast cancer, cervix, colorectum, oesophagus and uterus were the five leading cancers.</p>
+  <p>In 2024, there had been a rapid increase since 1998 and 1999, with a total number of 91 636 new cancer cases. Females comprised 53.3% of all cancer cases and males 46.7%. The leading cancers in males were prostate, colorectal, lung, melanoma and Non-Hodgkin Lymphoma. The leading cancers in females were breast, cervix, colorectal, uterus and melanoma. Apart from breast and prostate cancer being the leading cancers in women and men, lung cancer is the leading cause of cancer-related deaths overall.</p>
+
+  <h2>Lung Cancer</h2>
+  <p>Globally, lung cancer causes 1.8 million deaths each year. It surpasses deaths from colorectal, breast and prostate cancers. In South Africa, lung cancer remains a significant cause of death, with 7 705 or 1.70% of total deaths reported in 2020 according to WHO data. The age-adjusted death rate is 18.34 per 100 000 of population, ranking South Africa #64 in the world.</p>
+
+  <h3>What is lung cancer?</h3>
+  <p>According to the Cleveland Clinic, lung cancer is a disease that happens when cells in the lung tissue grow out of control and make tumours. Lung cancer starts in the airways or the small air sacs of your lungs (alveoli). It can damage your lungs and spread to other parts of your body (metastatic lung cancer). This can lead to organs not working properly.</p>
+
+  <h3>Types of lung cancer</h3>
+  <ul>
+    <li><strong>Non-Small Cell Lung Cancer (NSCLC):</strong> The most common type. Subtypes include adenocarcinoma, squamous cell carcinoma and sarcomatoid carcinoma.</li>
+    <li><strong>Small Cell Lung Cancer (SCLC):</strong> Grows quickly and is harder to treat than NSCLC. It is often found when the tumour has already spread.</li>
+  </ul>
+
+  <h3>Causes of lung cancer</h3>
+  <p>Tobacco smoking is responsible for approximately 85% of all cases globally. Environmental exposures such as second-hand smoke, air pollution, diesel exhaust, asbestos and welding fumes also contribute to the risk.</p>
+  <p>In South Africa, over a quarter of adults use tobacco. According to the Global State of Tobacco Harm Reduction, there were about 10.9 million current smokers in 2024 (prevalence 23.3%), with a large gender gap (around 39.3% of men and 8.5% of women). Daily smokers numbered about 6.4 million. Anti-smoking policies have helped reduce age-adjusted mortality rates, especially among men. South Africa also faces high levels of air pollution from its coal-dependent energy sector and is currently the 12th largest emitter of greenhouse gases globally.</p>
+
+  <h3>Early detection of lung cancer</h3>
+  <p>Symptoms often do not appear until the disease is advanced. Possible early signs include a persistent cough, shortness of breath, hoarse voice, coughing up blood, chest pain and unexplained weight loss. Because symptoms are unreliable early on, screening is important.</p>
+  <ul>
+    <li><strong>Low-dose Computed Tomography (LDCT):</strong> Uses low-dose radiation to create detailed pictures. Studies (including the National Lung Screening Trial) showed annual LDCT for three years reduced the risk of dying from lung cancer in heavy smokers compared with chest X-rays.</li>
+    <li><strong>Chest X-ray</strong> and <strong>sputum cytology</strong> have also been used, but they have not been shown to reduce deaths from lung cancer.</li>
+  </ul>
+  <p>Possible harms of screening include false-positive results (leading to unnecessary procedures) and overdiagnosis. Newer approaches using artificial intelligence with clinical and imaging data are being studied.</p>
+
+  <h3>Treatment of lung cancer</h3>
+  <p>Conventional treatments include surgery, chemotherapy and radiation. Immunotherapy is transforming treatment and can improve outcomes alone or combined with other therapies. Challenges remain (side effects and drug resistance). For some NSCLC cases, oligonucleotide therapeutics (such as antisense oligonucleotides like Trabedersen, currently in trials) that target TGF-β2 are being explored.</p>
+
+  <h3>Definitions</h3>
+  <ul>
+    <li><strong>Overdiagnosis:</strong> Finding a cancer that would never have caused symptoms. It can lead to unnecessary anxiety and treatment.</li>
+    <li><strong>Immunotherapy:</strong> Treatments that help a person’s immune system fight cancer.</li>
+    <li><strong>Oligonucleotides / Antisense oligonucleotides (ASOs):</strong> Short chains of DNA or RNA that can bind to specific genetic sequences to regulate gene expression.</li>
+    <li><strong>TGF-β2:</strong> A cytokine involved in cell growth and tissue repair that cancer cells can exploit.</li>
+  </ul>
+
+  <h2>Breast Cancer</h2>
+  <p>In 2022, approximately 2.3 million women were diagnosed with breast cancer globally, resulting in about 670 000 deaths. It is the most common cancer among women worldwide. In South Africa, according to WHO/GLOBOCAN data, there were 9 794 deaths with an age-standardised mortality rate of 9.7 per 100 000 (ranking second among female cancers after cervical cancer). Breast cancer can also occur in men, though it is rare.</p>
+  <p><em>(You can continue adding the rest of your Breast Cancer, Prostate Cancer and Colorectal Cancer sections here in the same style.)</em></p>
+
+  <h2>Closing</h2>
+  <p>Cancer is a significant problem in South Africa and the world. Raising awareness is an effective way to inform people who might have cancer (or whose loved ones might) so they can seek help earlier.</p>
+
+  <blockquote>
+    “Cancer cannot cripple love, it cannot shatter hope, it cannot conquer the spirit.” — Unknown
+  </blockquote>
+
+  <h2>Main Sources</h2>
+  <ul>
+    <li>Cleveland Clinic</li>
+    <li>World Health Organization (WHO)</li>
+    <li>National Cancer Registry (NCR) / South African data</li>
+    <li>World Life Expectancy / WHO mortality data</li>
+    <li>Cancer.gov and other public health resources</li>
+  </ul>
+
+</body>
+</html>
